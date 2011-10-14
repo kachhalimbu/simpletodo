@@ -1,0 +1,3 @@
+This is just a simple TODO sample application to demonstrate how to develop a non-relational database driven ZK application using mongoDB and its Java driver.
+To be able to run this application you need to have a mongoDB instance up and running with default configuration. 
+This is a Maven project so just import and build it using m2eclipse plugin. 
